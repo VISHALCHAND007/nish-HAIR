@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973429240133",
+    "project_id": "nish-hair-2cef8",
+    "storage_bucket": "nish-hair-2cef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973429240133:android:7a5fc975a6e080ac3c4e2c",
+        "android_client_info": {
+          "package_name": "com.example.nishhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973429240133-0d681vjl2pgvbumavhfkm5aioqlgemi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishhir",
+            "certificate_hash": "fa38007a401acbc64687faac57e6e362ee0a7a2b"
+          }
+        },
+        {
+          "client_id": "973429240133-ahcd6lv379ctl8amediflqkd5e0d7c0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsqjrI9J1gN222apCfVBv1oxcQm0gPxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973429240133-ahcd6lv379ctl8amediflqkd5e0d7c0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
